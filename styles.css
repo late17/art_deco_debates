@@ -102,10 +102,6 @@ main {
   display: inline-block;
 }
 
-.rank-change.down {
-  color: red;
-}
-
 .rank-change {
   font-size: 12px;
   margin-left: 4px;
@@ -113,6 +109,10 @@ main {
   left: 50%;
   transform: translateX(10px); /* move a bit to the right */
   font-size: 12px;
+}
+
+.rank-change.new {
+  color: cyan;
 }
 
 .rank-change.down {
