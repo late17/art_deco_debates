@@ -69,6 +69,60 @@ main {
   transition: background-color 0.3s ease;
 }
 
+.elo-cell {
+  position: relative;
+  text-align: center;
+}
+
+.elo {
+  display: inline-block;
+}
+
+.elo-change {
+  position: absolute;
+  left: 50%;
+  transform: translateX(24px); /* a bit more space than rank */
+  font-size: 12px;
+}
+
+.elo-change.up {
+  color: green;
+}
+
+.elo-change.down {
+  color: red;
+}
+
+.place-cell {
+  position: relative;
+  text-align: center;
+}
+
+.place {
+  display: inline-block;
+}
+
+.rank-change.down {
+  color: red;
+}
+
+.rank-change {
+  font-size: 12px;
+  margin-left: 4px;
+  position: absolute;
+  left: 50%;
+  transform: translateX(10px); /* move a bit to the right */
+  font-size: 12px;
+}
+
+.rank-change.down {
+  color: red;
+}
+
+.rank-change.up {
+  color: green;
+}
+
 .controls button:hover {
   background-color: #ffec8b;
 }
