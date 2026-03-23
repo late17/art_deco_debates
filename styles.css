@@ -4,9 +4,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: 'Montserrat', sans-serif;
-  color: #ffd700;
-  background: url('bg1.jpg') no-repeat center center fixed;
-  background-size: 1920px 1080px;
+  color: #ffd700;  
   background-color: black;
   height: 100vh;
   overflow: hidden;
@@ -21,9 +19,16 @@ body {
 
 header {
   text-align: center;
-  background-color: black;
-  padding: 1rem 0;
-  box-shadow: 0 0 30px gold;
+  padding: 1.5rem 0;
+  
+  /* Standard Syntax */
+  background: linear-gradient(to bottom right, #1b0303, #430701, #1b0303);
+  
+  /* Adding a subtle border-bottom to match your gold theme */
+  border-bottom: 1px solid rgba(255, 215, 0, 0.3);
+  
+  /* Keep your shadow for that 'lifted' look */
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.8);
 }
 
 header h1 {
@@ -34,11 +39,40 @@ header h1 {
   text-shadow: 0 0 10px #ffe135;
 }
 
+body b {
+  margin: 0;
+  font-size: 1.2rem;
+  color: #ffdf00;
+  letter-spacing: 1px;
+  text-shadow: 0 0 4px #ffe135;
+  display: block;
+  text-align: center;
+}
+
+body b.sub {
+  margin: 0;
+  font-size: 1rem;
+  color: #ffdf00;
+  letter-spacing: 1px;
+  text-shadow: 0 0 3px #ffe135;
+  display: block;
+  text-align: start;
+}
+
 main {
   flex: 1;
   overflow-y: auto;
-  padding-top: 1rem;
+  padding-top: 2.5rem;
   padding-bottom: 1rem;
+
+  
+    background: url('bg1.jpg') no-repeat center top;
+  background-size: cover; 
+  
+  /* Fallback for older mobile browsers that struggle with 'fixed' */
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
 }
 
 .controls {
@@ -131,16 +165,15 @@ main {
   width: min(1100px, 100%);
   max-height: 80vh;
   margin: auto;
-  
-  /* This allows the header to stick to the top of THIS container */
   overflow-y: auto; 
+  
+  box-sizing: border-box; 
   
   border-radius: 16px;
   background: rgba(18, 18, 18, 0.96);
   border: 1px solid rgba(255, 215, 0, 0.4);
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.6);
 }
-
 thead th {
   /* This keeps the header at the top while scrolling */
   position: sticky;
