@@ -37,7 +37,19 @@
 <tr>
   <td class="place-cell">
     <span class="place">4</span>
-    <span class="rank-change"></span>
+    <span class="rank-change up">↑3</span>
+  </td>
+  <td>Карпінський Віктор</td>
+  <td>28</td>
+  <td class="elo-cell">
+    <span class="elo">2080</span>
+    <span class="elo-change up">↑99</span>
+  </td>
+</tr>
+<tr>
+  <td class="place-cell">
+    <span class="place">5</span>
+    <span class="rank-change down">↓1</span>
   </td>
   <td>Роспотнюк Андрій</td>
   <td>49</td>
@@ -48,8 +60,8 @@
 </tr>
 <tr>
   <td class="place-cell">
-    <span class="place">5</span>
-    <span class="rank-change"></span>
+    <span class="place">6</span>
+    <span class="rank-change down">↓1</span>
   </td>
   <td>Татаренко Ігор</td>
   <td>29</td>
@@ -60,25 +72,13 @@
 </tr>
 <tr>
   <td class="place-cell">
-    <span class="place">6</span>
-    <span class="rank-change"></span>
+    <span class="place">7</span>
+    <span class="rank-change down">↓1</span>
   </td>
   <td>Данець Марія</td>
   <td>38</td>
   <td class="elo-cell">
     <span class="elo">2043</span>
-    <span class="elo-change"></span>
-  </td>
-</tr>
-<tr>
-  <td class="place-cell">
-    <span class="place">7</span>
-    <span class="rank-change"></span>
-  </td>
-  <td>Карпінський Віктор</td>
-  <td>24</td>
-  <td class="elo-cell">
-    <span class="elo">1981</span>
     <span class="elo-change"></span>
   </td>
 </tr>
@@ -133,19 +133,31 @@
 <tr>
   <td class="place-cell">
     <span class="place">12</span>
-    <span class="rank-change"></span>
+    <span class="rank-change up">↑2</span>
   </td>
-  <td>Соха Артем</td>
-  <td>39</td>
+  <td>Ілларіонов Сергій</td>
+  <td>33</td>
   <td class="elo-cell">
-    <span class="elo">1809</span>
-    <span class="elo-change"></span>
+    <span class="elo">1801</span>
+    <span class="elo-change up">↑17</span>
   </td>
 </tr>
 <tr>
   <td class="place-cell">
     <span class="place">13</span>
-    <span class="rank-change"></span>
+    <span class="rank-change down">↓1</span>
+  </td>
+  <td>Соха Артем</td>
+  <td>43</td>
+  <td class="elo-cell">
+    <span class="elo">1797</span>
+    <span class="elo-change down">↓12</span>
+  </td>
+</tr>
+<tr>
+  <td class="place-cell">
+    <span class="place">14</span>
+    <span class="rank-change down">↓1</span>
   </td>
   <td>Теленко Орест</td>
   <td>30</td>
@@ -156,32 +168,8 @@
 </tr>
 <tr>
   <td class="place-cell">
-    <span class="place">14</span>
-    <span class="rank-change"></span>
-  </td>
-  <td>Ілларіонов Сергій</td>
-  <td>30</td>
-  <td class="elo-cell">
-    <span class="elo">1784</span>
-    <span class="elo-change"></span>
-  </td>
-</tr>
-<tr>
-  <td class="place-cell">
     <span class="place">15</span>
-    <span class="rank-change"></span>
-  </td>
-  <td>Чепелюк Майя</td>
-  <td>39</td>
-  <td class="elo-cell">
-    <span class="elo">1775</span>
-    <span class="elo-change"></span>
-  </td>
-</tr>
-<tr>
-  <td class="place-cell">
-    <span class="place">16</span>
-    <span class="rank-change"></span>
+    <span class="rank-change up">↑1</span>
   </td>
   <td>Компанієць Ріна</td>
   <td>36</td>
@@ -192,8 +180,8 @@
 </tr>
 <tr>
   <td class="place-cell">
-    <span class="place">17</span>
-    <span class="rank-change"></span>
+    <span class="place">16</span>
+    <span class="rank-change up">↑1</span>
   </td>
   <td>Паніна Альона</td>
   <td>26</td>
@@ -204,8 +192,8 @@
 </tr>
 <tr>
   <td class="place-cell">
-    <span class="place">18</span>
-    <span class="rank-change"></span>
+    <span class="place">17</span>
+    <span class="rank-change up">↑1</span>
   </td>
   <td>Фролов Ярослав</td>
   <td>42</td>
@@ -216,44 +204,56 @@
 </tr>
 <tr>
   <td class="place-cell">
-    <span class="place">19</span>
-    <span class="rank-change"></span>
-  </td>
-  <td>Александрова Олександра</td>
-  <td>31</td>
-  <td class="elo-cell">
-    <span class="elo">1684</span>
-    <span class="elo-change"></span>
-  </td>
-</tr>
-<tr>
-  <td class="place-cell">
-    <span class="place">20</span>
-    <span class="rank-change up">↑7</span>
+    <span class="place">18</span>
+    <span class="rank-change up">↑2</span>
   </td>
   <td>Протопопова Уляна</td>
   <td>52</td>
   <td class="elo-cell">
     <span class="elo">1679</span>
-    <span class="elo-change up">↑76</span>
-  </td>
-</tr>
-<tr>
-  <td class="place-cell">
-    <span class="place">21</span>
-    <span class="rank-change down">↓1</span>
-  </td>
-  <td>Кульчицький Іван</td>
-  <td>25</td>
-  <td class="elo-cell">
-    <span class="elo">1661</span>
     <span class="elo-change"></span>
   </td>
 </tr>
 <tr>
   <td class="place-cell">
+    <span class="place">19</span>
+    <span class="rank-change"></span>
+  </td>
+  <td>Александрова Олександра</td>
+  <td>35</td>
+  <td class="elo-cell">
+    <span class="elo">1663</span>
+    <span class="elo-change down">↓21</span>
+  </td>
+</tr>
+<tr>
+  <td class="place-cell">
+    <span class="place">20</span>
+    <span class="rank-change up">↑6</span>
+  </td>
+  <td>Садовенко Артем</td>
+  <td>38</td>
+  <td class="elo-cell">
+    <span class="elo">1661</span>
+    <span class="elo-change up">↑50</span>
+  </td>
+</tr>
+<tr>
+  <td class="place-cell">
+    <span class="place">21</span>
+    <span class="rank-change down">↓6</span>
+  </td>
+  <td>Чепелюк Майя</td>
+  <td>42</td>
+  <td class="elo-cell">
+    <span class="elo">1656</span>
+    <span class="elo-change down">↓119</span>
+  </td>
+</tr>
+<tr>
+  <td class="place-cell">
     <span class="place">22</span>
-    <span class="rank-change down">↓1</span>
+    <span class="rank-change"></span>
   </td>
   <td>Вачіля Іван</td>
   <td>46</td>
@@ -265,6 +265,18 @@
 <tr>
   <td class="place-cell">
     <span class="place">23</span>
+    <span class="rank-change down">↓2</span>
+  </td>
+  <td>Кульчицький Іван</td>
+  <td>29</td>
+  <td class="elo-cell">
+    <span class="elo">1640</span>
+    <span class="elo-change down">↓21</span>
+  </td>
+</tr>
+<tr>
+  <td class="place-cell">
+    <span class="place">24</span>
     <span class="rank-change down">↓1</span>
   </td>
   <td>Воїнов Данило</td>
@@ -276,20 +288,8 @@
 </tr>
 <tr>
   <td class="place-cell">
-    <span class="place">24</span>
-    <span class="rank-change down">↓1</span>
-  </td>
-  <td>Куждеба Дем'ян</td>
-  <td>43</td>
-  <td class="elo-cell">
-    <span class="elo">1619</span>
-    <span class="elo-change"></span>
-  </td>
-</tr>
-<tr>
-  <td class="place-cell">
     <span class="place">25</span>
-    <span class="rank-change down">↓1</span>
+    <span class="rank-change"></span>
   </td>
   <td>Шевчук Анна</td>
   <td>44</td>
@@ -301,19 +301,7 @@
 <tr>
   <td class="place-cell">
     <span class="place">26</span>
-    <span class="rank-change down">↓1</span>
-  </td>
-  <td>Садовенко Артем</td>
-  <td>34</td>
-  <td class="elo-cell">
-    <span class="elo">1611</span>
-    <span class="elo-change"></span>
-  </td>
-</tr>
-<tr>
-  <td class="place-cell">
-    <span class="place">27</span>
-    <span class="rank-change down">↓1</span>
+    <span class="rank-change up">↑1</span>
   </td>
   <td>Данилюк Дмитро</td>
   <td>47</td>
@@ -324,8 +312,8 @@
 </tr>
 <tr>
   <td class="place-cell">
-    <span class="place">28</span>
-    <span class="rank-change"></span>
+    <span class="place">27</span>
+    <span class="rank-change up">↑1</span>
   </td>
   <td>Муравльов Сергій</td>
   <td>26</td>
@@ -336,8 +324,8 @@
 </tr>
 <tr>
   <td class="place-cell">
-    <span class="place">29</span>
-    <span class="rank-change"></span>
+    <span class="place">28</span>
+    <span class="rank-change up">↑1</span>
   </td>
   <td>Тютюнник Дмитро</td>
   <td>32</td>
@@ -348,8 +336,8 @@
 </tr>
 <tr>
   <td class="place-cell">
-    <span class="place">30</span>
-    <span class="rank-change"></span>
+    <span class="place">29</span>
+    <span class="rank-change up">↑1</span>
   </td>
   <td>Рісенберг Михайло</td>
   <td>51</td>
@@ -360,20 +348,8 @@
 </tr>
 <tr>
   <td class="place-cell">
-    <span class="place">31</span>
-    <span class="rank-change"></span>
-  </td>
-  <td>Яцик Олексій</td>
-  <td>33</td>
-  <td class="elo-cell">
-    <span class="elo">1537</span>
-    <span class="elo-change"></span>
-  </td>
-</tr>
-<tr>
-  <td class="place-cell">
-    <span class="place">32</span>
-    <span class="rank-change"></span>
+    <span class="place">30</span>
+    <span class="rank-change up">↑2</span>
   </td>
   <td>Мовчан Максим</td>
   <td>22</td>
@@ -384,8 +360,44 @@
 </tr>
 <tr>
   <td class="place-cell">
-    <span class="place">33</span>
+    <span class="place">31</span>
     <span class="rank-change"></span>
+  </td>
+  <td>Яцик Олексій</td>
+  <td>37</td>
+  <td class="elo-cell">
+    <span class="elo">1518</span>
+    <span class="elo-change down">↓19</span>
+  </td>
+</tr>
+<tr>
+  <td class="place-cell">
+    <span class="place">32</span>
+    <span class="rank-change up">↑4</span>
+  </td>
+  <td>Купчинська Юлія</td>
+  <td>30</td>
+  <td class="elo-cell">
+    <span class="elo">1515</span>
+    <span class="elo-change up">↑78</span>
+  </td>
+</tr>
+<tr>
+  <td class="place-cell">
+    <span class="place">33</span>
+    <span class="rank-change down">↓9</span>
+  </td>
+  <td>Куждеба Дем'ян</td>
+  <td>46</td>
+  <td class="elo-cell">
+    <span class="elo">1507</span>
+    <span class="elo-change down">↓112</span>
+  </td>
+</tr>
+<tr>
+  <td class="place-cell">
+    <span class="place">34</span>
+    <span class="rank-change down">↓1</span>
   </td>
   <td>Яцишин Роман</td>
   <td>41</td>
@@ -396,8 +408,20 @@
 </tr>
 <tr>
   <td class="place-cell">
-    <span class="place">34</span>
-    <span class="rank-change"></span>
+    <span class="place">35</span>
+    <span class="rank-change up">↑3</span>
+  </td>
+  <td>Панфьоров Богдан</td>
+  <td>36</td>
+  <td class="elo-cell">
+    <span class="elo">1491</span>
+    <span class="elo-change up">↑78</span>
+  </td>
+</tr>
+<tr>
+  <td class="place-cell">
+    <span class="place">36</span>
+    <span class="rank-change down">↓2</span>
   </td>
   <td>Лісова Злата-Аза</td>
   <td>24</td>
@@ -408,32 +432,44 @@
 </tr>
 <tr>
   <td class="place-cell">
-    <span class="place">35</span>
-    <span class="rank-change up">↑5</span>
+    <span class="place">37</span>
+    <span class="rank-change down">↓2</span>
   </td>
   <td>Магала Павло</td>
   <td>55</td>
   <td class="elo-cell">
     <span class="elo">1459</span>
-    <span class="elo-change up">↑82</span>
-  </td>
-</tr>
-<tr>
-  <td class="place-cell">
-    <span class="place">36</span>
-    <span class="rank-change down">↓1</span>
-  </td>
-  <td>Купчинська Юлія</td>
-  <td>27</td>
-  <td class="elo-cell">
-    <span class="elo">1437</span>
     <span class="elo-change"></span>
   </td>
 </tr>
 <tr>
   <td class="place-cell">
-    <span class="place">37</span>
-    <span class="rank-change down">↓1</span>
+    <span class="place">38</span>
+    <span class="rank-change up">↑2</span>
+  </td>
+  <td>Литвин Анастасія</td>
+  <td>29</td>
+  <td class="elo-cell">
+    <span class="elo">1448</span>
+    <span class="elo-change up">↑53</span>
+  </td>
+</tr>
+<tr>
+  <td class="place-cell">
+    <span class="place">39</span>
+    <span class="rank-change new">NEW</span>
+  </td>
+  <td>Педченко Назар</td>
+  <td>21</td>
+  <td class="elo-cell">
+    <span class="elo">1436</span>
+    <span class="elo-change"></span>
+  </td>
+</tr>
+<tr>
+  <td class="place-cell">
+    <span class="place">40</span>
+    <span class="rank-change down">↓3</span>
   </td>
   <td>Пивовар Анастасія</td>
   <td>24</td>
@@ -444,20 +480,8 @@
 </tr>
 <tr>
   <td class="place-cell">
-    <span class="place">38</span>
-    <span class="rank-change down">↓1</span>
-  </td>
-  <td>Панфьоров Богдан</td>
-  <td>33</td>
-  <td class="elo-cell">
-    <span class="elo">1413</span>
-    <span class="elo-change"></span>
-  </td>
-</tr>
-<tr>
-  <td class="place-cell">
-    <span class="place">39</span>
-    <span class="rank-change down">↓1</span>
+    <span class="place">41</span>
+    <span class="rank-change down">↓2</span>
   </td>
   <td>Борисенко Олег</td>
   <td>37</td>
@@ -468,20 +492,8 @@
 </tr>
 <tr>
   <td class="place-cell">
-    <span class="place">40</span>
+    <span class="place">42</span>
     <span class="rank-change down">↓1</span>
-  </td>
-  <td>Литвин Анастасія</td>
-  <td>25</td>
-  <td class="elo-cell">
-    <span class="elo">1395</span>
-    <span class="elo-change"></span>
-  </td>
-</tr>
-<tr>
-  <td class="place-cell">
-    <span class="place">41</span>
-    <span class="rank-change"></span>
   </td>
   <td>Кучеренко Олександр</td>
   <td>35</td>
@@ -492,8 +504,8 @@
 </tr>
 <tr>
   <td class="place-cell">
-    <span class="place">42</span>
-    <span class="rank-change"></span>
+    <span class="place">43</span>
+    <span class="rank-change down">↓1</span>
   </td>
   <td>Боримський Микита</td>
   <td>20</td>
@@ -504,8 +516,8 @@
 </tr>
 <tr>
   <td class="place-cell">
-    <span class="place">43</span>
-    <span class="rank-change"></span>
+    <span class="place">44</span>
+    <span class="rank-change down">↓1</span>
   </td>
   <td>Литвиненко Олександра</td>
   <td>26</td>
@@ -516,8 +528,8 @@
 </tr>
 <tr>
   <td class="place-cell">
-    <span class="place">44</span>
-    <span class="rank-change"></span>
+    <span class="place">45</span>
+    <span class="rank-change down">↓1</span>
   </td>
   <td>Савіцький Максим</td>
   <td>21</td>
@@ -528,20 +540,20 @@
 </tr>
 <tr>
   <td class="place-cell">
-    <span class="place">45</span>
-    <span class="rank-change"></span>
+    <span class="place">46</span>
+    <span class="rank-change down">↓1</span>
   </td>
   <td>Котлярчук Окс</td>
-  <td>24</td>
+  <td>27</td>
   <td class="elo-cell">
-    <span class="elo">1264</span>
-    <span class="elo-change"></span>
+    <span class="elo">1282</span>
+    <span class="elo-change up">↑18</span>
   </td>
 </tr>
 <tr>
   <td class="place-cell">
-    <span class="place">46</span>
-    <span class="rank-change"></span>
+    <span class="place">47</span>
+    <span class="rank-change down">↓1</span>
   </td>
   <td>Хавунка Володимир</td>
   <td>22</td>
@@ -552,8 +564,8 @@
 </tr>
 <tr>
   <td class="place-cell">
-    <span class="place">47</span>
-    <span class="rank-change"></span>
+    <span class="place">48</span>
+    <span class="rank-change down">↓1</span>
   </td>
   <td>Біневський Боріс</td>
   <td>23</td>
@@ -564,8 +576,8 @@
 </tr>
 <tr>
   <td class="place-cell">
-    <span class="place">48</span>
-    <span class="rank-change"></span>
+    <span class="place">49</span>
+    <span class="rank-change down">↓1</span>
   </td>
   <td>Бучацька Дарія</td>
   <td>20</td>
@@ -576,8 +588,8 @@
 </tr>
 <tr>
   <td class="place-cell">
-    <span class="place">49</span>
-    <span class="rank-change"></span>
+    <span class="place">50</span>
+    <span class="rank-change down">↓1</span>
   </td>
   <td>Грей Тіна</td>
   <td>23</td>
@@ -588,8 +600,8 @@
 </tr>
 <tr>
   <td class="place-cell">
-    <span class="place">50</span>
-    <span class="rank-change"></span>
+    <span class="place">51</span>
+    <span class="rank-change down">↓1</span>
   </td>
   <td>Павлишин Арсеній</td>
   <td>22</td>
